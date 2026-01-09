@@ -1,0 +1,8 @@
+# Python sanal ortami (Bunu sakin gonderme, 100lerce dosya var)
+venv/
+__pycache__/
+*.pyc
+
+# Cevresel degiskenler (Sifrelerini koru)
+.env
+.DS_Store
